@@ -1,5 +1,7 @@
 # Agent Matchmaking (concept)
 
+English | [日本語](README.ja.md)
+
 > Working name. **Concept only: there is no app and no code yet.** This page describes the idea so it can be discussed.
 
 **One line:** each person has a personal AI agent that knows what they are looking for in a partner; agents talk to each other first, and two people are introduced only when both agents see a good match and both people agree.
