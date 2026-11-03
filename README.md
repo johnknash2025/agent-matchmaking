@@ -58,4 +58,4 @@ The agents support; humans decide. This is not two agents negotiating against ea
 - Proving that a person is real and that two people actually met connects to the owner's "Human Reality Infrastructure" idea.
 - Agent-to-agent negotiation with consent before any action is the same pattern as the Agent Commerce work.
 
-*Concept by [Happy AI Garage](https://github.com/johnknash2025). Opinions are especially welcome, including disagreement: open an issue. The design is public; the implementation is kept private while it is built.*
+*Concept by [Happy AI Garage](https://github.com/johnknash2025). Opinions are especially welcome, including disagreement: open an issue (Japanese is fine). If you are interested in building it together, open an issue or use the contact on the profile. The design is public; the implementation is kept private while it is built.*
